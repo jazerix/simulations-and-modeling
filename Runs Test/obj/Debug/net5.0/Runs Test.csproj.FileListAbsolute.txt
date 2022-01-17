@@ -1,0 +1,16 @@
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.exe
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.deps.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.runtimeconfig.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.runtimeconfig.dev.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\ref\Runs Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\bin\Debug\net5.0\Runs Test.pdb
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.csprojAssemblyReference.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.AssemblyInfoInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.AssemblyInfo.cs
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.csproj.CoreCompileInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\ref\Runs Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.pdb
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Runs Test\obj\Debug\net5.0\Runs Test.genruntimeconfig.cache
