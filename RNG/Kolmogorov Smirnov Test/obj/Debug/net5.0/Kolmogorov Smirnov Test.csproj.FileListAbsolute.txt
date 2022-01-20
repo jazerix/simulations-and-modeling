@@ -1,0 +1,24 @@
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.csprojAssemblyReference.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.AssemblyInfoInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.AssemblyInfo.cs
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.csproj.CoreCompileInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.exe
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.deps.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.runtimeconfig.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.runtimeconfig.dev.json
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\ref\Kolmogorov Smirnov Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\Kolmogorov Smirnov Test.pdb
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\RNG.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\bin\Debug\net5.0\RNG.pdb
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.csprojAssemblyReference.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.AssemblyInfoInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.AssemblyInfo.cs
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.csproj.CoreCompileInputs.cache
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.csproj.CopyComplete
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\ref\Kolmogorov Smirnov Test.dll
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.pdb
+C:\Users\jazer\Code\school\instructor\VOP F21\Simulatons and Modeling\RNG\Kolmogorov Smirnov Test\obj\Debug\net5.0\Kolmogorov Smirnov Test.genruntimeconfig.cache

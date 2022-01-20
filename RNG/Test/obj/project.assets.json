@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Kolmogorov Smirnov Test/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "RNG": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kolmogorov Smirnov Test.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kolmogorov Smirnov Test.dll": {}
+        }
+      },
+      "RNG/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/RNG.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RNG.dll": {}
+        }
+      },
+      "Runs Test/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Runs Test.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Runs Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kolmogorov Smirnov Test/1.0.0": {
+      "type": "project",
+      "path": "../Kolmogorov Smirnov Test/Kolmogorov Smirnov Test.csproj",
+      "msbuildProject": "../Kolmogorov Smirnov Test/Kolmogorov Smirnov Test.csproj"
+    },
+    "RNG/1.0.0": {
+      "type": "project",
+      "path": "../RNG/RNG.csproj",
+      "msbuildProject": "../RNG/RNG.csproj"
+    },
+    "Runs Test/1.0.0": {
+      "type": "project",
+      "path": "../Runs Test/Runs Test.csproj",
+      "msbuildProject": "../Runs Test/Runs Test.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Kolmogorov Smirnov Test >= 1.0.0",
+      "Runs Test >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jazer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\jazer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jazer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Kolmogorov Smirnov Test\\Kolmogorov Smirnov Test.csproj": {
+              "projectPath": "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Kolmogorov Smirnov Test\\Kolmogorov Smirnov Test.csproj"
+            },
+            "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Runs Test\\Runs Test.csproj": {
+              "projectPath": "C:\\Users\\jazer\\Code\\school\\instructor\\VOP F21\\Simulatons and Modeling\\RNG\\Runs Test\\Runs Test.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

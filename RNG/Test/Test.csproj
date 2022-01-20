@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Kolmogorov Smirnov Test\Kolmogorov Smirnov Test.csproj" />
+      <ProjectReference Include="..\Runs Test\Runs Test.csproj" />
+    </ItemGroup>
+
+
+
+</Project>

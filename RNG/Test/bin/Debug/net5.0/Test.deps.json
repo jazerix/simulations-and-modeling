@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Test/1.0.0": {
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "Kolmogorov Smirnov Test/1.0.0": {
+        "dependencies": {
+          "RNG": "1.0.0"
+        },
+        "runtime": {
+          "Kolmogorov Smirnov Test.dll": {}
+        }
+      },
+      "RNG/1.0.0": {
+        "runtime": {
+          "RNG.dll": {}
+        }
+      },
+      "Runs Test/1.0.0": {
+        "runtime": {
+          "Runs Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kolmogorov Smirnov Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RNG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Runs Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
