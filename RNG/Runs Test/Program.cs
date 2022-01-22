@@ -72,7 +72,6 @@ namespace Runs_Test
 
             Console.WriteLine($"Chi Zero Squared: " + chiZeroSquared);
             Console.WriteLine($"Observed number of runs: {overallRuns.Count}");
-            Console.ReadKey();
         }
 
         public static decimal[] trulyRandom(int range)
